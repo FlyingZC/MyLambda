@@ -1,0 +1,21 @@
+lambda
+一个不用被绑定到一个标识符上，并且可能被调用的函数。
+一段带有输入参数的可执行语句块
+
+二.lambda语法
+(Type param1,Type param2,...,Type paramN)->{
+	statment1;
+	statment2;
+	...
+	return statmentM;
+}
+
+简化版
+1.省略参数类型
+(param1,param2,...,paramN)->{
+	statment1;
+	statment2;
+	...
+	return statmentM;
+}
+
